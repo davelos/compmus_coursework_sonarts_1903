@@ -337,4 +337,4 @@ Smalltalk από την Carla Scaletti και αποτελεί ένα εξειδ
 
 -  Manning,P 2004, Electronic and Computer Music. Oxford University Press
 
--Παττίχης,Χ 2018, UPISketch: Νέο app μουσικής σύνθεσης για κινητές συσκευές, http://www.philenews.com/politismos/kypros/article/515712/upisketch-neo-app-moysikis-synthesis-ga-kinites-syskeves
+- Παττίχης,Χ 2018, UPISketch: Νέο app μουσικής σύνθεσης για κινητές συσκευές, http://www.philenews.com/politismos/kypros/article/515712/upisketch-neo-app-moysikis-synthesis-ga-kinites-syskeves
