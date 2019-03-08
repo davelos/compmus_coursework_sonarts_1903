@@ -331,10 +331,10 @@ Smalltalk από την Carla Scaletti και αποτελεί ένα εξειδ
 
 # **ΒΙΒΛΙΟΓΡΑΦΙΑ**
 
--  Λώτης,Θ. και Διαμαντόπουλος,Γ. 2015, Μουσική Πληροφορική και Μουσική με Υπολογιστές. Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών
+-  Λώτης,Θ. και Διαμαντόπουλος,Γ. 2015. Μουσική Πληροφορική και Μουσική με Υπολογιστές. Σύνδεσμος Ελληνικών Ακαδημαϊκών Βιβλιοθηκών.
 
-- Μαργουνάκης,Δ 2013, Σχεδίαση Γλωσσών Προγραμματισμού και  Διε̟παφών για χρήση στη Μουσική Πληροφορική. Διδακτορική Διατριβή
+- Μαργουνάκης,Δ. 2013. Σχεδίαση Γλωσσών Προγραμματισμού και  Διε̟παφών για χρήση στη Μουσική Πληροφορική. Διδακτορική Διατριβή.
 
--  Manning,P 2004, Electronic and Computer Music. Oxford University Press
+-  Manning,P 2004. Electronic and Computer Music. Oxford University Press.
 
-- Παττίχης,Χ 2018, UPISketch: Νέο app μουσικής σύνθεσης για κινητές συσκευές, http://www.philenews.com/politismos/kypros/article/515712/upisketch-neo-app-moysikis-synthesis-ga-kinites-syskeves
+- Παττίχης,Χ 2018. UPISketch: Νέο app μουσικής σύνθεσης για κινητές συσκευές. http://www.philenews.com/politismos/kypros/article/515712/upisketch-neo-app-moysikis-synthesis-ga-kinites-syskeves.
